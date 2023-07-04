@@ -1,0 +1,7 @@
+package com.company; // Grouping of classes
+
+public class Main { // Entry point into the application
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
+}
