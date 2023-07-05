@@ -1,0 +1,18 @@
+package com.company;
+
+public class literals {
+    public static void main(String[] args) {
+        byte age = 34; // Declaring and initializing a byte variable "age" with the value 34
+        int age2 = 56; // Declaring and initializing an integer variable "age2" with the value 56
+        short age3 = 87; // Declaring and initializing a short variable "age3" with the value 87
+        long ageDino = 5666666666666L; // Declaring and initializing a long variable "ageDino" with the value 5666666666666L
+        char ch = 'A'; // Declaring and initializing a character variable "ch" with the value 'A'
+        float f1 = 5.6f; // Declaring and initializing a float variable "f1" with the value 5.6f
+        double d1 = 4.66; // Declaring and initializing a double variable "d1" with the value 4.66
+
+        boolean a = true; // Declaring and initializing a boolean variable "a" with the value true
+        System.out.print(age); // Printing the value of "age" to the console without a new line
+        String str = "Divesh"; // Declaring and initializing a string variable "str" with the value "Divesh"
+        System.out.println(str); // Printing the value of "str" to the console with a new line
+    }
+}
